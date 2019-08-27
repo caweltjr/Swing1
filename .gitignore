@@ -1,0 +1,11 @@
+# Default ignored files
+/workspace.xml
+/.idea
+
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+*.class
+/target
